@@ -1,0 +1,26 @@
+# Go binary, test and coverage files
+*.exe
+*.test
+*.prof
+
+# Go dependency directories
+/bin/
+/pkg/
+/vendor/
+
+# IDE files and directories
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+*.sublime-workspace
+*.sublime-project
+
+# Other generated files
+*.log
+*.zip
+*.gz
+*.tar
+.DS_Store
